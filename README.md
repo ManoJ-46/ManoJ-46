@@ -20,14 +20,6 @@ I prefer simple, reliable code that solves real problems. My work focuses on bac
 | Automation | Selenium, Requests, BeautifulSoup |
 | Tools      | Git, GitHub, VS Code |
 
-## GitHub Stats
-<div align="center">
-  <!-- Main stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ManoJ-46&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="150" alt="Manoj's GitHub stats" />
-
-  <!-- Top languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManoJ-46&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top languages" />
-</div>
 
 ## Contact
 - Website: https://maanoj.com  
